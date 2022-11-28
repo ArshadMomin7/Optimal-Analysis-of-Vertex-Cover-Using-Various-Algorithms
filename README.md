@@ -24,7 +24,25 @@ In this approach the Vertex Cover uses an arbitary edge (u,v) from set of edges 
 ## Output 
 
 ### Run time of CNF-SAT-VC
-<img src="photos/Duration15_3algo.png" width="50%" height="50%">
+<img src="photos/Duration15_3algo.png" width="50%" height="50%"> 
+ 
+ 
+### Run Time analysis for Vertice range [5,15]
+<img src="photos/Final3Algos.png" width="50%" height="50%"> 
+ 
+  
+  ### Run Time analysis for Vertice range [5,50]
+<img src="photos/Final3Algos1to15.png" width="50%" height="50%"> 
+ 
+  
+  ### Approximate Ratio for Vertice range [5,15]
+<img src="photos/VerticesRatio.png" width="50%" height="50%"> 
+
+### Approximate Ratio for Vertice range [5,50]
+<img src="photos/50data2algo.png" width="50%" height="50%"> 
+ 
+  
+
 
 
 
