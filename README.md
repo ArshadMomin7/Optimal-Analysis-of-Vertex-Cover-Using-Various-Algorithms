@@ -25,7 +25,7 @@ In this approach the Vertex Cover uses an arbitary edge (u,v) from set of edges 
 
 ### Run time of CNF-SAT-VC
 ![Runtime of CNF-SAT](photos/Duration15_3algo.png =250x)
-
+<img src="photos/Duration15_3algo.png" width="50%" height="50%">
 
 
 
