@@ -41,6 +41,19 @@ In this approach the Vertex Cover uses an arbitary edge (u,v) from set of edges 
 ### Approximate Ratio for Vertice range [5,50]
 <img src="photos/50data2algo.png" width="50%" height="50%"> 
  
+
+ # Conclusion
+ Obviously the sat solver returned optimal results and was used as the control and benchmark for the approximation ratio results. It is important to note that for larger graphs the CNF-SAT-VC algorithm quickly becomes intractable due to its exponential nature. 
+ Depending on the application, it would be good to consider an approximation method when graph inputs become larger than 15 vertices. 
+ In conclusion, when we consider Approximation ratio APPROX-VC-1 algorithm becomes more efficient than the APPROX-VC-2. When running time is the constriction of design APPROX-VC-2 should be the preferred algorithm to compute vertex covers because it takes the least time amongst all the three. However, if the main focus is to find minimum vertex then, APPROX-VC-2 is more likely to fail.
+
+# References :
+1. CNF-SAT (https://www.geeksforgeeks.org/2-satisfiability-2-sat-problem/)
+2. MultiThreading (https://www.geeksforgeeks.org/multithreading-in-cpp/)
+3. Vertex Cover (https://www.geeksforgeeks.org/vertex-cover-problem-set-1-introductionapproximate-
+algorithm-2/)
+4. Concurrency (https://www.toptal.com/software/introduction-to-concurrent-programming)
+5. Run time measure (https://man7.org/linux/man-pages/man3/pthreadgetcpuclockid.3.html)
   
 
 
