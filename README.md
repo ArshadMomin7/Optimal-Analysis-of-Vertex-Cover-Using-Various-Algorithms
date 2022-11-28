@@ -50,8 +50,7 @@ In this approach the Vertex Cover uses an arbitary edge (u,v) from set of edges 
 # References :
 1. CNF-SAT (https://www.geeksforgeeks.org/2-satisfiability-2-sat-problem/)
 2. MultiThreading (https://www.geeksforgeeks.org/multithreading-in-cpp/)
-3. Vertex Cover (https://www.geeksforgeeks.org/vertex-cover-problem-set-1-introductionapproximate-
-algorithm-2/)
+3. Vertex Cover (https://www.geeksforgeeks.org/vertex-cover-problem-set-1-introductionapproximate-algorithm-2/)
 4. Concurrency (https://www.toptal.com/software/introduction-to-concurrent-programming)
 5. Run time measure (https://man7.org/linux/man-pages/man3/pthreadgetcpuclockid.3.html)
   
